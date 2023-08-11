@@ -1,0 +1,76 @@
+# Practice HTML and CSS
+
+## Flex
+
+- Example 1a : Quotes Side-by-Side
+- Example 2a : Tabs Spaced Out
+- Example 2b : Card with Previous & Next Links
+- Example 2c : Team Profiles
+- Example 3a : Responsive Team Profiles
+- Example 3b : Logos Wrapped
+- Example 4a : Icon and Text
+- Example 4b : Profile Card - Small
+- Example 4c : Services Section
+- Example 4d : Frequent Questions
+- Example 4e : Center a div
+- Example 5a : Welcome Screen
+- Example 5b : Testimonial Card
+- Example 5c : Alternating List of Profiles
+- Example 6a : Alternating List of Profiles
+- Example 6b : Sticky Footer
+- Example 6c : Card with Header & Footer
+- Example 6d : Tabs Hover Effect
+- Example 6e : Variable Width Responsive Buttons
+- Example 7a: Itinerary
+- Example 7b: Profile Card - Large
+- Example 8a: Split Screen Display
+- Example 8b: Blog Post Display
+- Example 8c: Pricing Plans
+- Example 9a: Navigation Bar with Centered Menu
+- Example 9b: Image and Text in 2:1 Ratio
+- Example 10a: Notifications Menu Item
+- Example 10b: Footer with Multiple Columns
+- Example 11a: Responsive Navigation Bar
+- Example 12a: Product Display
+- Example 12b: Profile with Rating
+- Example 13
+- Example 14a: Full Page Testimonials Section
+- Example 15a: Social Media Icons
+- Example 16a: Article Preview
+- Example 16b: Fitness Report
+- Example 16c: Tweet
+
+## Grid
+
+- Example 17a : Full Page Gallery
+- Example 17b : Layout with Sidebar
+- Example 17c : Services Grid
+- Example 17d : Quick Bites Menu
+- Example 18a : Sticky Footer with Grid
+- Example 19a : Pricing Plans with Grid
+- Example 19b : Blog Posts Display
+- Example 20a : Featured Logos in a Grid
+- Example 20b : Shopping Cart Summary
+- Example 21a : Profile Card with Bio & Link
+- Example 21b : Features Logos Center of Page
+- Example 22a : Featured Logos of Different Widths
+- Example 22b : Profile Card with Bio & Link Centered
+- Example 23a : Image and Text Section
+- Example 23b : Featured Logos of Different Heights
+- Example 24a : Center a div using Grid
+- Example 25a : Horizontal Form
+- Example 25b : Single Price Grid Component
+- Example 25c : Page Layout with Grid
+- Example 26a : Contact Form
+- Example 26b : Responsive Services Section
+- Example 26c : Testimonials Grid Section
+- Example 27a : Responsive Pricing Plans
+- Example 28a : Pricing Plans with Size Limits
+- Example 28b : Blog Post Page with Code Snippet
+- Example 28c : Responsive Grid without Media Queries
+- Example 29a : Analytics Section
+- Example 30a : Restaurant Cards with Labels
+- Example 30b : Caption at the Bottom of Image
+- Example 31a : Services Section
+- Example 31b : Twitter Monthly Summary
+- Example 31c : Social Media Dashboard
